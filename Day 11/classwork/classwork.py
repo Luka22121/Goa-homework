@@ -5,4 +5,4 @@ def combine_strings(str1, str2):
 # გამოძახება მაგალითისთვის:
 combine_strings("hello", "world")  
 combine_strings("foo", "bar")      
-combine_strings("python", "3.9")   
+combine_strings("python", )   
